@@ -5,8 +5,8 @@ print('Given Numbers',numbers)
 
 newNumbers =[]
 
-for i in numbers:
+for i in numbers:dfcdvv
     if(i not in newNumbers):
         newNumbers.append(i)
         
-print('After Removing Duplicates',newNumbers)        
+       
