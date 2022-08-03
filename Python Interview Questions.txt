@@ -1,0 +1,6 @@
+Python Interview Question and Answers from Pythonlife
+
+
+1) What is Python? What are the benifits of using Python?
+A) Python is a programing language with objects, modules, theards, exceptions and automatic memory management. The benifts of python are that it is simple and easy portable, extensible, build-in-data and it is an open source.
+
