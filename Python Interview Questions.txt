@@ -13,3 +13,7 @@ Ans: Pickle module accepts any Python object and converts it into a string repre
 
 4. How Python is interpreted?
 Ans: Python language is an interpreted language. Python program runs directly from the source code. It converts the source code that is written by the programmer into an intermediate language, which is again translated into machine language that has to be executed.
+
+5. How memory is managed in Python?
+Ans: Python memory is managed by Python private heap space. All Python objects and data structures are located in a private heap. The programmer does not have an access to this private heap and interpreter takes care of this Python private heap.
+The allocation of Python heap space for Python objects is done by Python memory manager. The core API gives access to some tools for the programmer to code.
