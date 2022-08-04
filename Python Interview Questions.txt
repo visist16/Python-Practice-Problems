@@ -11,3 +11,5 @@ A) PEP 8 is a coding convention, a set of recommendation, and how to write your 
 3. What is pickling and unpickling?
 Ans: Pickle module accepts any Python object and converts it into a string representation and dumps it into a file by using dump function, this process is called pickling. While the process of retrieving original Python objects from the stored string representation is called unpickling.
 
+4. How Python is interpreted?
+Ans: Python language is an interpreted language. Python program runs directly from the source code. It converts the source code that is written by the programmer into an intermediate language, which is again translated into machine language that has to be executed.
