@@ -6,3 +6,8 @@ A) Python is a programing language with objects, modules, theards, exceptions an
 
 2) What is PEP 8?
 A) PEP 8 is a coding convention, a set of recommendation, and how to write your Python Code more readable.
+
+
+3. What is pickling and unpickling?
+Ans: Pickle module accepts any Python object and converts it into a string representation and dumps it into a file by using dump function, this process is called pickling. While the process of retrieving original Python objects from the stored string representation is called unpickling.
+
