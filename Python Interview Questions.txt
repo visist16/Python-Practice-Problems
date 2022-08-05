@@ -27,3 +27,5 @@ Ans: A Python decorator is a specific change that we make in Python syntax to al
 8. What is the difference between list and tuple?
 Ans: The difference between list and tuple is that list is mutable while tuple is not. Tuple can be hashed for e.g as a key for dictionaries.
 
+9. How are arguments passed by value or by reference?
+Ans: Everything in Python is an object and all variables hold references to the objects. The references values are according to the functions; as a result you cannot change the value of the references. However, you can change the objects if it is mutable.
