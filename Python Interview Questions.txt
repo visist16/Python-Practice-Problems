@@ -21,3 +21,6 @@ The allocation of Python heap space for Python objects is done by Python memory 
 6. What are the tools that help to find bugs or perform static analysis?
 Ans: PyChecker is a static analysis tool that detects the bugs in Python source code and warns about the style and complexity of the bug. Pylint is another tool that verifies whether the module meets the coding standard.
 
+7. What are Python decorators?
+Ans: A Python decorator is a specific change that we make in Python syntax to alter functions easily.
+
