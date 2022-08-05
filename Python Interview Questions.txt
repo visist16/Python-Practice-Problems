@@ -17,3 +17,7 @@ Ans: Python language is an interpreted language. Python program runs directly fr
 5. How memory is managed in Python?
 Ans: Python memory is managed by Python private heap space. All Python objects and data structures are located in a private heap. The programmer does not have an access to this private heap and interpreter takes care of this Python private heap.
 The allocation of Python heap space for Python objects is done by Python memory manager. The core API gives access to some tools for the programmer to code.
+
+6. What are the tools that help to find bugs or perform static analysis?
+Ans: PyChecker is a static analysis tool that detects the bugs in Python source code and warns about the style and complexity of the bug. Pylint is another tool that verifies whether the module meets the coding standard.
+
