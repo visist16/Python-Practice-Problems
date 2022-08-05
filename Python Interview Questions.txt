@@ -24,3 +24,6 @@ Ans: PyChecker is a static analysis tool that detects the bugs in Python source 
 7. What are Python decorators?
 Ans: A Python decorator is a specific change that we make in Python syntax to alter functions easily.
 
+8. What is the difference between list and tuple?
+Ans: The difference between list and tuple is that list is mutable while tuple is not. Tuple can be hashed for e.g as a key for dictionaries.
+
