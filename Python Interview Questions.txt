@@ -29,3 +29,7 @@ Ans: The difference between list and tuple is that list is mutable while tuple i
 
 9. How are arguments passed by value or by reference?
 Ans: Everything in Python is an object and all variables hold references to the objects. The references values are according to the functions; as a result you cannot change the value of the references. However, you can change the objects if it is mutable.
+
+10.what is Dic and List comperehensions are?
+Ans: They are the syntax constructions to ease the creation of the dictionary or listed based on existing iterable.
+
