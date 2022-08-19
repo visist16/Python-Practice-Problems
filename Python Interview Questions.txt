@@ -52,3 +52,12 @@ Ans: Pass means, no-operation Python statement, or in other words it is a place 
 
 16. In Python what are iterators?
 Ans: In Python, iterators are used to iterate a group of elements, containers like list.
+
+
+
+17. What is unit test in Python?
+Ans: A unit testing framework in Python is known as unittest. It supports sharing of setups, automation testing, shutdown code for tests, aggregation of tests into collections etc.
+
+
+18. In Python what is slicing?
+Ans: A mechanism to select a range of items from sequence types like list, tuple, strings etc. is known as slicing.
