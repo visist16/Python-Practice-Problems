@@ -74,3 +74,12 @@ Ans: To copy an object in Python, you can try copy.copy () or copy.deepcopy() fo
 22. What is negative index in Python?
 Ans: Python sequences can be index in positive and negative numbers. For positive index, 0 is the first index, 1 is the second index and so forth. For negative index, (-1) is the last index and (-2) is the second last index and so forth.
 
+23. How you can convert a number to a string?
+Ans: In order to convert a number into a string, use the inbuilt function str(). If you want a octal or hexadecimal representation, use the inbuilt function oct() or hex().
+
+24. What is the difference between Xrange and range?
+Ans: Xrange returns the xrange object while range returns the list, and uses the same memory and no matter what the range size is.
+
+25. What is module and package in Python?
+Ans: In Python, module is the way to structure program. Each Python program file is a module, which imports other modules like objects and attributes.
+The folder of Python program is a package of modules. A package can have modules or subfolders.
