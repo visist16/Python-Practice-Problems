@@ -67,3 +67,10 @@ Ans: The way of implementing iterators are known as generators. It is a normal f
 
 20. What is docstring in Python?
 Ans: A Python documentation string is known as docstring, it is a way of documenting Python functions, modules and classes.
+
+21. How can you copy an object in Python?
+Ans: To copy an object in Python, you can try copy.copy () or copy.deepcopy() for the general case. You cannot copy all objects but most of them.
+
+22. What is negative index in Python?
+Ans: Python sequences can be index in positive and negative numbers. For positive index, 0 is the first index, 1 is the second index and so forth. For negative index, (-1) is the last index and (-2) is the second last index and so forth.
+
